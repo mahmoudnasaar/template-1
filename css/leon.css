@@ -177,9 +177,11 @@ color: var(--main-color);
 }
 
 .landing .intro-text p{
-    font-size: 19px;
-    line-height: 1,8;
-    color: rgb(0, 230, 57);
+    font-size: 20px;
+    line-height: 1,5;
+    color: gold;
+font-weight: 800;
+
 }
 
 
