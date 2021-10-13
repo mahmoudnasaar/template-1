@@ -153,10 +153,11 @@ padding-left: 25px;
 /* start landing */
 
 .landing{
-background-image: url(../images/تنزيل.jfif);
-height: calc(100vh - 64px);
+background-image: url(../images/b9133e47-72b4-4299-9d1d-642012b2ddb4_16x9_1200x676.jpg);
+/* height: calc(100vh - 64px); */
 position: relative;
 background-size: cover;
+height: 400px;
 }
 
 .landing .intro-text{
@@ -235,13 +236,13 @@ font-size: 17px;
 
 .services{
 padding-top: 60px;
-padding-bottom: 60px;
+padding-bottom: 30px;
 }
 
 .services .services-content{
 display: grid;
 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-gap: 40px;
+gap: 200px;
 margin-top: 100px;
 }
 
